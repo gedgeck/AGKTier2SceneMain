@@ -1,0 +1,11 @@
+﻿# ignore list
+/.vs
+/Debug64
+/Final
+/Template.vcxproj.user
+/build
+.cache
+.gitmodules
+**/*.plist
+*.kdev4
+compile_commands.json
